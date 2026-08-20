@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.pixel.pcinventory.app-debug-39:/xml_file_paths.xml.flat",
+        "source": "com.pixel.pcinventory.app-main-41:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.pixel.pcinventory.app-debug-39:/layout_activity_main.xml.flat",
+        "source": "com.pixel.pcinventory.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.pixel.pcinventory.app-debug-39:/mipmap_ic_launcher_round.xml.flat",
+        "source": "com.pixel.pcinventory.app-main-41:/mipmap/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.pixel.pcinventory.app-debug-39:/mipmap_ic_launcher.xml.flat",
+        "source": "com.pixel.pcinventory.app-main-41:/mipmap/ic_launcher.xml"
+    }
+]
